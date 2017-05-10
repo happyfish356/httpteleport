@@ -1,2 +1,4 @@
 tags
 *.pprof
+.idea/
+*.iml
